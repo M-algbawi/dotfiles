@@ -3,7 +3,7 @@
   diff = auto
   interactive = auto
   status = auto
-  ui = auto
+	ui = true
 
 [color "branch"]
   current = green
@@ -48,4 +48,4 @@
   mergeoptions = --no-edit
 [user]
 	email = m_algbawi@outlook.com
-	name = Monther algbawi
+	name = M-algbawi
